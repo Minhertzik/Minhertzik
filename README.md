@@ -3,24 +3,6 @@
   <br><br>
   <img src="https://img.shields.io/badge/Unreal%20Engine-5.3–5.7-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20&%20Gameplay-Behavior%20Trees%20·%20EQS%20·%20GAS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Migrated-Blueprint%20→%20C++-green?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/minhertz/minhertz/raw/main/banner_ue5.png" width="800"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5.3–5.7-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gameplay%20Systems-AI%20%7C%20Architecture-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Migrated-Blueprint%20→%20C++-green?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/minhertz/minhertz/raw/main/banner_ue5.png" alt="Mikhail — UE5 C++ Developer" width="800"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5.3–5.7-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%7C%20Gameplay%20Systems-Behavior%20Trees%20·%20EQS-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Migrated-Blueprint%20→%20C++-green?style=for-the-badge"/>
 </p>
