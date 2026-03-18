@@ -100,7 +100,7 @@ Upper / lower body separation
 ## 📫 Contact
 
 * LinkedIn → https://www.linkedin.com/in/minhertz/
-* Email → [michael.azumov.a@gmail.com](mailto:michael.razumov.a@gmail.com)
+* Email → [michael.razumov.a@gmail.com](mailto:michael.razumov.a@gmail.com)
 
 ---
 
